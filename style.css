@@ -136,3 +136,15 @@ h5:hover {
 .titlecontact {
     font-size: 30px;
 }
+
+.inge {
+    padding-left : 10%;
+    padding-right: 10%;
+    padding-top : 1%;
+}
+
+.sulitest, .course {
+    padding-left:  10%;
+    padding-right: 10%;
+    padding-top: 1%;
+}
